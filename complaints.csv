@@ -1,0 +1,14 @@
+complaint,category
+payment failed,Payment
+money deducted but order not placed,Payment
+refund not received,Refund
+refund delayed,Refund
+unable to login,Login
+forgot password not working,Login
+OTP not received,Login
+UPI transaction failed,Payment
+transaction stuck but money debited,Payment
+app is very slow,App Issue
+app keeps crashing,App Issue
+order delivered late,Delivery
+wrong item delivered,Delivery
